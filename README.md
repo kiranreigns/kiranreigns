@@ -1,12 +1,12 @@
-<h1 align="center">Hey there 👋, I'm Kiran</h1>
-<h3 align="center">A Passionate Full Stack Developer | Generative AI Explorer | Freelancer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👋;+I'm+Kiran;" />
+</h1>
+<h3 align="center">A Passionate Full Stack Developer | Generative AI Explorer</h3>
 
 <p align="center">
   🚀 Transforming ideas into clean, functional code.<br>
   💡 Turning creative sparks into scalable digital experiences.
 </p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -17,21 +17,28 @@ I'm a Software Engineer with a strong foundation in both the **MERN Stack** and 
 - Learning to build Generative AI web apps 
 - Building scalable, robust, and secure full stack applications
 
-💼 Working as a **freelancer on Fiverr**, where I bring clients' ideas to life.
 
+<div align="right"> 
+  <a href="mailto:kiran01001011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  
+  <a href="https://www.linkedin.com/in/kiran-software-engineer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://https://github.com/kiranreigns" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+  
 ---
 
 ### 🛠️ Tech Stack
 <!-- Frontend -->
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css,jest,figma,threejs,nodejs,expressjs,mongodb,postgresql,mysql,python,django,flask,fastapi,firebase,java,git,github,ubuntu,linux,docker,kubernetes,vercel,netlify,)
-
----
-
-### 📫 Let's Connect
-
-- 💼 [Fiverr Profile](https://www.fiverr.com/) <!-- Replace with your actual Fiverr link -->  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kiran-software-engineer/) <!-- Replace with your actual LinkedIn link -->  
-- 📩 Reach me at: kiran01001011@gmail.com
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,html,css,jest,figma,threejs,nodejs,expressjs,mongodb,postgresql,mysql,python,django,flask,fastapi,firebase,java,git,github,ubuntu,linux,docker,kubernetes,vercel,netlify" />   
+</div>
 
 ---
 
@@ -45,8 +52,13 @@ I'm a Software Engineer with a strong foundation in both the **MERN Stack** and 
 
 ---
 
-🌱 *“Code is the closest thing we have to a superpower.”*  
-Let's build something amazing together! 🚀
+<div align="center">
+  <br/>
+  💻<em>“Code is the closest thing we have to a superpower.”</em><br/><br/>
+  <strong>Let's build something amazing together! 🚀</strong>
+</div>
+
+
 
 <!---
 kiranreigns/kiranreigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
