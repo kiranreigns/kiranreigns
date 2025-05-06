@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an enthusiastic developer with a strong foundation in both the **MERN Stack** and **Python Full Stack** technologies. My goal is to build efficient, scalable, and user-friendly applications—whether it’s for startups, enterprises, or innovative AI projects.
+I'm a Software Engineer with a strong foundation in both the **MERN Stack** and **Python Full Stack** technologies. My goal is to build efficient, scalable, and user-friendly applications whether it’s for startups, enterprises, or innovative AI projects.
 
 🔍 Currently exploring:
 - Generative AI apps & tools  
