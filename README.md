@@ -56,7 +56,7 @@ I'm a Software Engineer with a strong foundation in both the **MERN Stack** and 
 
 <div align="center">
   <br/>
-  💻<em>“Code is the closest thing to magic 🪄.”</em><br/><br/>
+  💻<em>“Code is the closest thing to magic ”</em>🪄<br/><br/>
   <strong>Let's build something amazing together! 🚀</strong>
 </div>
 
